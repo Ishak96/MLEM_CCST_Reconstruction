@@ -1,3 +1,5 @@
+stderr.*
+stdout.*
 lightning_logs/*
 data/*
 results/*
